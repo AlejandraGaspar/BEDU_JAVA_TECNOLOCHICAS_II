@@ -1,4 +1,4 @@
-package Sesion02.concurrencia;
+package Sesion02.concurrenciaSincronizado;
 
 public class MemoriaCompartida {
 
