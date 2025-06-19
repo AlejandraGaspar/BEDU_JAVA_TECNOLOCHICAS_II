@@ -1,0 +1,30 @@
+Juan Pérez|domicilio|5532147896
+María González|local
+Carlos López|local|5512345678
+Ana Martínez|local|5543218765
+Luis Rodríguez|domicilio
+Laura Sánchez|domicilio|5587654321
+Pedro Ramírez|local|5598765432
+Sofía Torres|domicilio
+Jorge Díaz|domicilio|5576543210
+Mónica Vázquez|local|5567890123
+Fernando Castro|local
+Gabriela Ruiz|domicilio|5545678901
+Roberto Medina|domicilio|5532109876
+Patricia Herrera|domicilio
+Miguel Ángel Silva|domicilio|5521098765
+Alejandra Núñez|domicilio|5578901234
+Ricardo Vargas|local
+Verónica Castro|local|5590123456
+José Luis Mora|local|5543210987
+Daniela Ortega|local
+Arturo Ríos|domicilio|5567894321
+Lucía Mendoza|domicilio|5532145678
+Francisco Guerrero|local
+Silvia Pacheco|local|5587651098
+Enrique Vega|local|5543216543
+Adriana Rojas|domicilio
+Raúl Campos|local|5578904321
+Mariana Delgado|domicilio|5532187654
+Gerardo Tapia|domicilio
+Isabel Flores|domicilio|5567891234
