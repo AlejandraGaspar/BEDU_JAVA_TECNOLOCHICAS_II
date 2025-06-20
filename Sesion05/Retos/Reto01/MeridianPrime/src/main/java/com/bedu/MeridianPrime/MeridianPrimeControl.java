@@ -1,4 +1,4 @@
-package Sesion05.Retos.Reto01;
+package com.bedu.MeridianPrime;
 
 import reactor.core.publisher.Flux;
 import java.time.Duration;
@@ -35,7 +35,7 @@ public class MeridianPrimeControl {
                 .map(i -> random.nextInt(11))
                 .filter(retraso -> retraso > 5)
                 .doOnNext(retraso -> System.out.println("Tren maglev con retraso crítico: " + retraso + " minutos"))
-                .onBackpressureBuffer(3)
+                .onBackpressureBuffer(3);
 
         //Flujo de semáforos inteligentes (estado persistente)
         Flux<String> semaforos = Flux.interval(Duration.ofMillis(400))

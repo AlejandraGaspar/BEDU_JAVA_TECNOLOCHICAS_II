@@ -1,4 +1,4 @@
-package Sesion05.Retos.Reto02;
+package com.bedu.UnidadCuidadosIntensivos;
 
 import reactor.core.publisher.Flux;
 import java.time.Duration;
